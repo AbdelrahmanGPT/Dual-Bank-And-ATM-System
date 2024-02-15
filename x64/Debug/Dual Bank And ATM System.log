@@ -1,0 +1,118 @@
+﻿  Dual Bank And ATM System.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(166,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(176,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(186,31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(346,10): warning C4244: 'return': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(354,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(366,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(458,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(470,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(496,23): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(586,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(610,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(626,25): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(700,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(701,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(710,30): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(723,30): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1526,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1565,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1592,42): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1627,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1671,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1709,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1976,12): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(1988,17): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2059,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2059,10):
+  consider using '%lld' in the format string
+  D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2059,10):
+  consider using '%Id' in the format string
+  D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2059,10):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2141,16): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2248,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2248,11):
+  consider using '%lld' in the format string
+  D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2248,11):
+  consider using '%Id' in the format string
+  D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2248,11):
+  consider using '%I64d' in the format string
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2264,33): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2265,38): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\ABODAstd.h(2612,44): warning C4244: 'return': conversion from '__int64' to 'short', possible loss of data
+  (compiling source file 'Dual%20Bank%20And%20ATM%20System.cpp')
+  
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(110,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(178,6): warning C4101: 'AccountIndex': unreferenced local variable
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(196,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(271,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(308,39): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(402,24): warning C4244: 'initializing': conversion from '__int64' to 'long double', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(431,41): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(692,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(709,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(1030,37): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(1153,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(1601,25): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\source\repos\Dual Bank And ATM System\Dual Bank And ATM System.cpp(812): warning C4715: 'DeleteMyAccount': not all control paths return a value
+  Dual Bank And ATM System.vcxproj -> D:\source\repos\Dual Bank And ATM System\x64\Debug\Dual Bank And ATM System.exe
